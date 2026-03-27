@@ -1,8 +1,10 @@
 ### 2026年3月27日 16:54:13更新v3.0：
 
 <details>
-<summary><strong>点击展开</strong> - 适合闭源企业级别3.0</summary>
-  
+<summary><strong>点击展开</strong> - 适合闭源企业级别3.0（小白省心版且全程全自动）</summary>
+
+  <img width="879" height="378" alt="30ce4138da68610f9ef064021b407294" src="https://github.com/user-attachments/assets/0ef45ff3-0622-42f2-aa5c-d1df138af76e" />
+
 ### 🚀 一键复制
 
 ````markdown
