@@ -2,6 +2,7 @@
 
 <details>
 <summary><strong>点击展开</strong> - 适合闭源企业级别3.0</summary>
+  
 ### 🚀 一键复制
 
 ````markdown
